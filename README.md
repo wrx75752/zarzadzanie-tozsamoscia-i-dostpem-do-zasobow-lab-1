@@ -1,1 +1,1 @@
-# zarzadzanie-tozsamoscia-i-dostpem-do-zasobow-lab-1
+# zarzadzanie-tozsamoscia-i-dostepem-do-zasobow-lab-1
